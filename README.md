@@ -1,2 +1,2 @@
 # TIC
-Es una replica de Informe, pero haciéndolo yo sola
+Es una replica de repositorio Informe, pero haciéndolo yo sola
